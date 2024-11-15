@@ -21,7 +21,7 @@ nav{
     background-color: black;
     grid-area: nav;
     height: 40px;
-    text-align: center;
+    text-align: left;
 }
 main{
     grid-area: main;
@@ -79,4 +79,7 @@ a{
 }
 #orange{
     background-color: rgb(255, 166, 0);
+}
+div.droite{
+    text-align: right;
 }
