@@ -83,3 +83,18 @@ a{
 div.droite{
     text-align: right;
 }
+main img:hover{
+    border: solid blue 3px;
+    display: inline-block;
+}
+main a:hover{
+    background-color: yellowgreen;
+    color: aqua;
+}
+main a{
+    color: black;
+}
+main img:last-of-type{
+    border-radius: 25px;
+    max-height: 250px;
+}
