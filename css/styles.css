@@ -94,12 +94,12 @@ main a:hover{
 main a{
     color: black;
 }
-img:last-of-type{
+img:nth-child(3){
     border-radius: 25px;
     max-height: 250px;
     opacity: 0.5;
 }
-img:last-of-type:hover{
+img:nth-child(3):hover{
     opacity: 1;
 }
 img:nth-child(2){
